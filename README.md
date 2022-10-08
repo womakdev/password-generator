@@ -8,7 +8,7 @@ J'ai donc fais ce programme rapidement afin de ne faire confiance à personne.
 Bonne utilisation! ✅
 
 
-🔐 🇫🇷 Secure password generator
+🔐 🇫🇬🇧 Secure password generator
 
 This project with no real future was born, because I have no confidence in the online password generator that can be found on the Internet.
 
